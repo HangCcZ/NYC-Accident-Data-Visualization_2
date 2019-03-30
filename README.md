@@ -4,7 +4,8 @@ I thought it was a great project idea; however, for someone who just got his dri
 
 The whole data set can be downloaded from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95. 
 
-My code can be found in NYC_traffic.ipynb file in my repository.
-It seems that GitHub is having trouble rendering my code completely.
-To see my code with rendered result.
-Please visit:https://nbviewer.jupyter.org/github/HangCcZ/NYC-Accident-Data-Visualization_2/blob/master/NYC_traffic.ipynb
+To see my code with rendered result, please visit:https://nbviewer.jupyter.org/github/HangCcZ/NYC-Accident-Data-Visualization_2/blob/master/NYC_traffic.ipynb
+My code can also be found in NYC_traffic.ipynb file in my repository.
+
+
+
