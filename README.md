@@ -1,6 +1,6 @@
 # NYC-Accident-Data-Visualization
 #Inspired by project https://stevebottos.github.io/jupnotes/LA%20Parking%20Violations%202018. 
-I thought it was a great project idea; however for someone who just got his driving license, I decided to make a similar version but with the vehicle collisions data.
+I thought it was a great project idea; however, for someone who just got his driving license, I thought it would be more useful to make a similar version but with the vehicle collisions data in NYC instead.
 
 The whole data set can be downloaded from https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95. 
 
